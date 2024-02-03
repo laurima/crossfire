@@ -4,21 +4,18 @@
 
 # Alkusanat
 
-Tämän käsikirjan valmistelu aloitettiin 2023 Heinäkuussa. Sen ensisijainen tehtävä on helpottaa kristillisen videopelitoiminnan toteuttamista. Käsikirjan ensisijainen kohderyhmä on videopeliryhmien managerit.
+Tämän käsikirjan valmistelu aloitettiin 2023 Heinäkuussa. Sen ensisijainen tehtävä on helpottaa kristillisen videopelitoiminnan toteuttamista. Käsikirjan ensisijainen kohderyhmä on videopeliryhmien managerit.  
 
-*“Tervetuloa Crossfireen!*
+*Tervetuloa Crossfireen!*  
+*Rakas manageri,*  
+*Olet astumassa johtotehtäviin, jotka eivät ole ainoastaan vastuullisia, vaan myös inspiroivia. Toimintamme on osa suurempaa tarinaa, joka yhdistää intohimon videopelaamiseen ja evankeliumin sanoman.*  
+*Jokainen tiimin pelaaja tuo mukanaan oman ainutlaatuisen panoksensa, ja sinun tehtäväsi on ohjata tätä monimuotoista joukkoa kohti yhteistä tavoitetta. Voittaminen ei ole vain pelissä saavutettu piste, vaan myös se yhteys, jonka rakennamme tiimin sisällä.*  
+*CF manageritiimi on suunniteltu olemaan myös managereita tukeva yhteisö koko kauden ajan, joten johtamisen ja koordinoinnin vastapainoksi saat myös nörttejä seisomaan tukevasti rinnallasi.*  
+*Olemme todella innoissamme että pääsemme viemään Kristusta videopelien absurdiin maailmaan sinun kanssasi!*
 
-*Rakas manageri,*
+GL HF!
 
-*Olet astumassa johtotehtäviin, jotka eivät ole ainoastaan vastuullisia, vaan myös inspiroivia. Toimintamme on osa suurempaa tarinaa, joka yhdistää intohimon videopelaamiseen ja evankeliumin sanoman.*
-
-*Jokainen tiimin pelaaja tuo mukanaan oman ainutlaatuisen panoksensa, ja sinun tehtäväsi on ohjata tätä monimuotoista joukkoa kohti yhteistä tavoitetta. Voittaminen ei ole vain pelissä saavutettu piste, vaan myös se yhteys, jonka rakennamme tiimin sisällä.*
-
-*CF manageritiimi on suunniteltu olemaan myös managereita tukeva yhteisö koko kauden ajan, joten johtamisen ja koordinoinnin vastapainoksi saat myös nörttejä seisomaan tukevasti rinnallasi.*
-
-*Olemme todella innoissamme että pääsemme viemään Kristusta videopelien absurdiin maailmaan sinun kanssasi! GL HF!”*
-
-- CF johtotiimi
+CF johtotiimi
 
 # Mitä on e-urheilu?
 
@@ -606,9 +603,8 @@ Me jatkamme ensi kerralla pelin analysoinnin teemalla, joten treenatkaa ja levä
 
 **Aloitus 5 min**
 
-https://www.youtube.com/watch?v=YufQU5FYU0I
 
-Katsotaan alkuun hyvä käytännönläheinen video pelin analysoinnista,
+Katsotaan alkuun hyvä käytännönläheinen video pelin analysoinnista  
 [![HOW TO WATCH AND ANALYZE CSGO DEMOS | CSGO Coaching](https://img.youtube.com/vi/YufQU5FYU0I/0.jpg)](https://www.youtube.com/watch?v=YufQU5FYU0I)  
 
 Analysointia voi hyödyntää niin pelimaailmassa kuin oikean elämän tilanteissa. Välillä on yksinkertaisesti hyvä pysähtyä miettimään, että mitä tekee ja erityisesti miksi? Voisinko tehdä jotain toisella tavalla? Miten minun tulisi vastata tässä tilanteessa toisen tekemiseen? Jos pystyt perustelemaan tekojasi ja kertomaan siitä muille, että hekin ymmärtävät syy- seuraussuhteita, olet todennäköisesti oivaltanut jotain oikein.
