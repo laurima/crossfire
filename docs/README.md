@@ -181,7 +181,7 @@ Session hyvään lopettamiseen kannattaa panostaa. Loppukoonti osioista löytyy 
 
 # Sessiot
 
-## Yhteisten harjoittelun rutiinien luomista
+## Yhteisten harjoittelun rutiinien luomista <!-- {docsify-ignore} -->
 
 ### Yhteiset säännöt  
 
@@ -312,7 +312,7 @@ Rutiineihin voi aina palata ja ne auttavat meitä huonoinakin päivinä toimimaa
 
 Ensi kerralla käytämme aikaa tiimimme tavoitteiden asettamiseen. Laittakaa ylös tai kirjoittakaa discordiin jos teillä tulee viikon aikana mieleen, millaisia tavoitteita meillä yhdessä voisi olla.
 
-## Tiiminä toimiminen
+## Tiiminä toimiminen <!-- {docsify-ignore} -->
 
 ### Joukkueen tavoitteet
 
@@ -450,7 +450,7 @@ Mikä minkäkin roolin tehtävä on meidän joukkueessa
 
 Roolien asettaminen joukkuessa on tärkeää kommunikoinnin ja myös tehtävien selkeyttämisen takia. Myös toisten rooleihin tutustuminen on tärkeää. Jos esim. entry-mies kuolee ennen entryämistä, on hyvä jos joku toinen voi siitä ottaa koppia. Uskaltakaa antaa tilaa muiden suorittaa omaa rooliaan, mutta olkaa myös valmiita vastaanottamaan ja antamaan palautetta tarpeen tullen. Näin kukin voi kasvaa omassa roolissaan ja samalla kasvatte joukkueena. 3 Henkilökohtainen kehitys
 
-## Henkilökohtainen kehitys
+## Henkilökohtainen kehitys <!-- {docsify-ignore} -->
 
 ### Omat vahvuudet / heikkoudet
 
@@ -563,7 +563,7 @@ Oman roolin ymmärtäminen ja osaaminen edesauttaa koko tiimin pelaamista. Mitä
 
 Tämän kauden harjoitukset alkavat käymään vähiin. Ensi kerralla siirrymme viimeiseen isoon teema-alueeseen, jossa syvennetään omaa ja tiiminä pelaamista, pelin analysointia ja tiimin strategioita. Miettikää jo etukäteen ensi kerralle, että mitä uusia tavoitteita loppukaudelle teillä voisi olla.
 
-## Syventyminen
+## Syventyminen <!-- {docsify-ignore} -->
 
 ### Perusteiden vahvistaminen
 
