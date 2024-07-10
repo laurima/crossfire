@@ -168,7 +168,7 @@ Käsikirjan harjoitusten ja opetusten sisältö on vapaasti muokattavissa jokais
 
 Managerin on hyvä olla tietoinen etukäteen sen kerran session sisällöstä sekä yleisellä tasolla tulevien sessioiden sisällöistä, jotta mahdolliset tiimin sisältä tulevat isommat kysymykset, joita käsitellään myöhemmin voidaan siirtää käsiteltäväksi omalla sessiollaan. Kannattaa kuitenkin olla korva tarkkana arvioimassa, onko kysymys sellainen, joka on hyvä käsitellä samantien nopeasti pois alta.
 
-Etukäteen ennen jokaista sessiota kannattaa siis ottaa pieni aika, jolloin käydä läpi tulevaa sessiota sekä rukoilla session ja siihen osallistuvien puolesta.
+**Käy etukäteen ennen jokaista sessiota läpi tulevan session sisältö sekä rukoile session ja siihen osallistuvien puolesta.**
 
 Kauden harjoituksen runko rakentuu viidestä aihekokonaisuudesta, jotka sisältävät jokainen 2-3 aihetta. Rakenne sisältää myös kaksi kertaa, jolloin asetetaan kehitystavoitteita, sekä kaksi kertaa, kun näiden tavoitteiden toteutumista arvioidaan. Tämä mahdollistaa jokaiselle mielekkään henkilökohtaisen tavoitteen tiimin yhteisen kehittymisen rinnalle. Nämä tavoitteet ovat sellaisia, joista managerin on hyvä olla kartalla kaikkien harjoitusten aikana ja tehdä omia muistiinpanoja havainnoistaan.
 
@@ -181,7 +181,7 @@ Session hyvään lopettamiseen kannattaa panostaa. Loppukoonti osioista löytyy 
 
 # Sessiot
 
-## Yhteisten harjoittelun rutiinien luomista <!-- {docsify-ignore} -->
+## Yhteisten harjoittelun rutiinien luomista
 
 ### Yhteiset säännöt  
 
@@ -312,7 +312,7 @@ Rutiineihin voi aina palata ja ne auttavat meitä huonoinakin päivinä toimimaa
 
 Ensi kerralla käytämme aikaa tiimimme tavoitteiden asettamiseen. Laittakaa ylös tai kirjoittakaa discordiin jos teillä tulee viikon aikana mieleen, millaisia tavoitteita meillä yhdessä voisi olla.
 
-## Tiiminä toimiminen <!-- {docsify-ignore} -->
+## Tiiminä toimiminen
 
 ### Joukkueen tavoitteet
 
@@ -450,7 +450,7 @@ Mikä minkäkin roolin tehtävä on meidän joukkueessa
 
 Roolien asettaminen joukkuessa on tärkeää kommunikoinnin ja myös tehtävien selkeyttämisen takia. Myös toisten rooleihin tutustuminen on tärkeää. Jos esim. entry-mies kuolee ennen entryämistä, on hyvä jos joku toinen voi siitä ottaa koppia. Uskaltakaa antaa tilaa muiden suorittaa omaa rooliaan, mutta olkaa myös valmiita vastaanottamaan ja antamaan palautetta tarpeen tullen. Näin kukin voi kasvaa omassa roolissaan ja samalla kasvatte joukkueena. 3 Henkilökohtainen kehitys
 
-## Henkilökohtainen kehitys <!-- {docsify-ignore} -->
+## Henkilökohtainen kehitys
 
 ### Omat vahvuudet / heikkoudet
 
@@ -563,11 +563,12 @@ Oman roolin ymmärtäminen ja osaaminen edesauttaa koko tiimin pelaamista. Mitä
 
 Tämän kauden harjoitukset alkavat käymään vähiin. Ensi kerralla siirrymme viimeiseen isoon teema-alueeseen, jossa syvennetään omaa ja tiiminä pelaamista, pelin analysointia ja tiimin strategioita. Miettikää jo etukäteen ensi kerralle, että mitä uusia tavoitteita loppukaudelle teillä voisi olla.
 
-## Syventyminen <!-- {docsify-ignore} -->
+## Syventyminen
 
 ### Perusteiden vahvistaminen
 
 **Aloitus 15 min**
+
 Harjoitusten edetessä alkaa yhteisten ja henkilökohtaisten tavoitteiden eteneminen (tai sen puute) näkyä harjoituksissa ja yhdessä pelatessa.
 Tänään on tarkoitus suunnata harjoituskauden viimeisten viikkojen tavoitteet selvemmäksi.  
 Jotkut tavoitteet on saatettu ehkä jo tavoittaa, osassa ollaan vielä matkalla ja saattaa olla tavoitteita, joiden olemassaolo on päässyt unohtumaan kokonaan.  
