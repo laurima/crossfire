@@ -704,7 +704,10 @@ Kuiva harjoitelkaa strategioita läpi joko ihan vain keskenään tai vaikka bott
 Käykää strategian visualisointia läpi uudestaan. Keskustelkaa mikä toimii, mikä ei ja päivittäkää strategian visualisointia. Ottakaa ruutukaappaukset strategioista ja jakakaa ne vaikka discordiin jotta niihin on myöhemmin helppo palata
 
 **Yhdessä pelaamista 30 min**
+
+
 **Loppukoonti 5 min**
+
 Tämä oli meidän harjoituskauden viimeinen ohjattu sessio. Kiitos kaikille osallistuneille! Harjoituksiin voitte palata tämän jälkeenkin, mutta tässä kohtaa on hyvä kuulla, että millä fiiliksellä olette tämän kauden jälkeen ja onko teillä kiinnostusta jatkaa seuraavalle kaudelle?
 
 # Tapahtumat
