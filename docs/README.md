@@ -31,7 +31,7 @@ Ensimmäiset e-urheilupelisarjat on pelattu 90-luvulla ja jo silloin oli olemass
 2000-luvulla organisaatioiden, turnauksien ja kilpasarjojen lukumäärä on kasvanut valtavasti niin globaalisti kuin myös Suomessa. Osa kilpailusta on harrastepohjaista, mutta palkintorahojen kasvettua on mahdollistunut myös ammattimainen e-urheilu ja e-urheilijoita onkin viime vuosina nähty aina linnan juhlissa asti.
 
 # Mikä on CrossFire?
-CrossFire on yhteiskristillinen järjestö, joka sai alkunsa 2023 huhtikuussa. CF käyttää videopelaamista tukeakseen seurakuntien tavoittavaa ja yhteisöllistä työtä. CrossFire:n johtokunta koostuu eri kirkkokuntien videopelien kokemusasiantuntijoista, managereista sekä seurakuntatyöntekijöistä. Tapahtumien ja toiminnan kohderyhmänä ovat nuoret ja nuoret aikuiset. Toiminnan järjestämiseen voi tulla mukaan ottamalla yhteyttä crossfire.organisation@gmail.com.
+CrossFire on yhteiskristillinen järjestö, joka sai alkunsa 2023 huhtikuussa. CF käyttää videopelaamista tukeakseen seurakuntien tavoittavaa ja yhteisöllistä työtä. CrossFire:n johtokunta koostuu eri kirkkokuntien videopelien kokemusasiantuntijoista, managereista sekä seurakuntatyöntekijöistä. Tapahtumien ja toiminnan kohderyhmänä ovat nuoret ja nuoret aikuiset. Toiminnan järjestämiseen voi tulla mukaan ottamalla yhteyttä theredemptionroyale@gmail.com.
 
 ## Arvot <!-- {docsify-ignore} -->
 **Kristillisyys**, olemme avoimesti ja yksinomaan kristillinen järjestö.  
@@ -302,10 +302,12 @@ Jumalan sana on meille kuin leipä ja kun me luemme, tutkimme ja mietiskelemme s
 Jeesus myös ruokki omaa inhimillistä sieluaan Jumalan sanalla ja Hänen läsnäololla ja sitten kun 40 päivän paaston jälkeen paholainen kiusoitteli, Jeesus pystyi vastaamaan kiusauksiin “rutiininomaisesti”.
 
 **Teemaharjoitus 55 min**
+
 Pelatkaa CS:ssää ja 15 sekunnin välein IGL sanoo mikkiin “ping”, jolloin jokainen katsoo minimappia. Näin synnytetään rutiini, joka hyödyttää kaikkia pelissä.
 Miettikää mitä muita rutiineja pelissä olisi hyvä opetella (esim vuoron alussa oman tiimin rahatilanteen katsominen ennen kuin ostaa itse mitään)
 
 **Loppukoonti 5 min**
+
 Rutiineihin voi aina palata ja ne auttavat meitä huonoinakin päivinä toimimaan johdonmukaisesti. Ilman rutiineja olemme kuin autoilija ilman ajokokemusta, autoilu liikenteessä olisi lähes mahdotonta, koska perusasiat eivät tule meille vielä rutiininomaisesti. Rutiinit toisin sanoen asettavat ja myös pitävät meidät tiellä oikeaan suuntaan. Ilman niitä eteenpäin meneminen on tarpeettoman vaikeaa.
 
 Ensi kerralla käytämme aikaa tiimimme tavoitteiden asettamiseen. Laittakaa ylös tai kirjoittakaa discordiin jos teillä tulee viikon aikana mieleen, millaisia tavoitteita meillä yhdessä voisi olla.
