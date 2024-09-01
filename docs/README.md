@@ -251,14 +251,14 @@ Toinen hauska video, jonka voi näyttää jos jää aikaa
 Matteus 6:31-34, 92 käännös  
 *»Älkää siis murehtiko: ’Mitä me nyt syömme?’ tai ’Mitä me juomme?’ tai ’Mistä me saamme vaatteet?’ Tätä kaikkea pakanat tavoittelevat. Teidän taivaallinen Isänne tietää kyllä, että te tarvitsette kaikkea tätä. Etsikää ennen kaikkea Jumalan valtakuntaa ja hänen vanhurskasta tahtoaan, niin teille annetaan kaikki tämäkin. Älkää siis huolehtiko huomispäivästä, se pitää kyllä itsestään huolen. Kullekin päivälle riittävät sen omat murheet.*
 
-Jumala siis tietää, mitä me tarvitsemme. Hän ei ole mikään toivomusautomaatti, josta kaikki tarvittava tippuu meidän syliin, vaan Hänen tahtonsa on, että me pidämme itsestämme  huolta eikä Hän tule meidän ja arkisen huolenpidon väliin. (Paastoaminen on sitten asia erikseen, mutta me ei sitä tässä käsitellä.)
+Jumala siis tietää, mitä me tarvitsemme. Hän ei ole mikään toivomusautomaatti, josta kaikki tarvittava tippuu meidän syliin, vaan Hänen tahtonsa on, että me pidämme itsestämme huolta eikä Hän tule meidän ja arkisen huolenpidon väliin. (Paastoaminen on sitten asia erikseen, mutta me ei sitä tässä käsitellä.)
 
 Otetaan vielä toinen esimerkki, jossa Jumala piti huolen Eliasta. Elia oli viimeisenä Israelin hengissä selvinneenä profeettana pakomatkalla Iisebelin vainolta ja oli fyysisesti sekä henkisesti aivan loppu. Luetaan Raamatusta:
 
 1 Kuningasten kirja 19:4, 92 käännös  
 *Itse hän meni autiomaahan päivänmatkan päähän. Hän istuutui kinsteripensaan juurelle ja toivoi itselleen kuolemaa. Hän sanoi: »Jo riittää, Herra! Ota minun henkeni. En minä ole esi-isiäni parempi.» Hän paneutui makuulle ja nukkui kinsteripensaan alla, kunnes enkeli kosketti häntä ja sanoi hänelle: »Nouse ja syö!» Hän katsahti ympärilleen, ja hänen pääpuolessaan oli kivillä paistettu leipä ja vesiruukku. Hän söi ja joi ja asettui taas makuulle. Mutta Herran enkeli tuli uudelleen, kosketti häntä ja sanoi: »Nouse ja syö, muutoin matka käy sinulle liian raskaaksi.» Hän nousi jalkeille ja söi ja joi. Ruoka antoi hänelle voimaa kulkea neljäkymmentä päivää ja neljäkymmentä yötä, kunnes hän tuli Horebille, Jumalan vuorelle.*
 
-Elia oli niin väsynyt kohtaamistaan haasteista ja pakomatkasta, että ei kyennyt näkemään enää muuta pois pääsyä tilanteesta kuin kuolema.
+Elia oli niin väsynyt kohtaamastaan vainosta ja pakomatkasta, että ei kyennyt näkemään enää muuta pois pääsyä tilanteesta kuin kuolema.
 Jumala näki kuitenkin Elian hetkellisen alennustilan johtuvan osittain ihan arkisista asioista. Kun Elia hetken aikaa sai levähtää ja ravita itseään, oli tämä valmis jatkamaan matkaa.
 
 Vaikkei meidän elämässä yleensä ole unen ja ravinnon saanti niin akuuttia kuin Elialla, niin ei meidän kannata tahalleenkaan laiminlyödä näitä tarpeita vaan pitää huolta, että syömme kunnon aterioita säännöllisesti ja nukumme riittävästi
@@ -332,7 +332,7 @@ Mitä tavoitteita siis tiiminä voimme tänään asettaa? Käytetään keskustel
 
 Raamattu opettaa meille ihannetta, johon meidän tulee pyrkiä omassa elämässämme. Joskus voi olla, että kyky nähdä tai hyväksyä omaa syntiä on sumentunut ja siihen toinen uskova ystävä voi olla erinomainen peili! Jos joku asia omassa elämässä mietityttää, on tärkeää, että lähipiiristä löytyy ystävä, jonka kanssa asian Raamatullisesta perustasta voi keskustella. Vaikkei kaveri tiedä vastausta, niin ainakin voitte yhdessä käydä entistä tehokkaammin etsimään ratkaisua Raamatusta!
 
-On myös tilanteita, joissa ns. väliintulo voi tuntua ainoalta vaihtoehdolta. Tällaiseen menettelyyn ei kuitenkaan kannata lähteä suin päin vaan mieluummin toisen ajatuksia ja tuntemuksia kuunnellen.  
+On myös tilanteita, joissa ns. väliintulo ystävän elämään voi tuntua ainoalta vaihtoehdolta. Tällaiseen menettelyyn ei kuitenkaan kannata lähteä suin päin vaan mieluummin toisen ajatuksia ja tuntemuksia kuunnellen.  
 Katsotaan Jeesuksen esimerkki Raamatusta, kuinka kohdata ystävän syntiä.
 
 Matteuksen evankeliumi 18:18, 92  
@@ -355,7 +355,7 @@ Ensi session teemana on joukkuehenki ja kommunikaatio. Onko meillä siinä paran
 **Aloitus 5 min**
 
 Hyvä joukkuehenki antaa tilaa yksilö- ja joukkuesuorituksille, yhteiselle pelin kehittymiselle pelin aikana ja pelistä toiseen.
-Fakta pelatessa on, että aina ei voi onnistua eikä aina voi voittaa. Joukkue, joka pystyy yhdessä käsittelemään epäonnistumiset ja häviöt rakentavasti kerryttää yhteisiä oppeja ja kokemuksia ja vahvistuu jokaisesta voitosta ja häviöstä. Heikko tiimihenki riittää tiimille kun voittoja tulee, mutta se murentaa joukkueen motivaation kun peli ei kulje.  
+Fakta pelatessa on, että aina ei voi onnistua eikä aina voi voittaa. Joukkue, joka pystyy yhdessä käsittelemään epäonnistumiset ja häviöt rakentavasti kerryttää yhteisiä oppeja, kokemuksia ja vahvistuu jokaisesta voitosta sekä häviöstä. Heikko tiimihenki riittää tiimille kun voittoja tulee, mutta se murentaa joukkueen motivaation kun peli ei kulje.  
 Hyvä joukkue ei siis pelkää epäonnistua, vaan hyvä joukkuehenki kantaa epäonnistumisten yli seuraavaan roundiin ja peliin. Toisin sanoen kun pelaaminen on kivaa yhdessä, niin se näkyy joukkueen kehityksessä pitkällä aikavälillä.
 Hyvää kommunikaatiota taas kuvaillaan usein “ylimääräiseksi kenttäpelaajaksi”.
 Tehokkaasti kommunikoiva joukkue on aina etulyöntiasemassa heikosti kommunikoivaan joukkueeseen nähden. Hyvä kommunikaatio tekee pelistä mukavampaa ja sujuvampaa ja hyvä fiilis taas ruokkii hyvää kommunikaatiota.
@@ -543,11 +543,11 @@ Ensi kerralla kerrataan meidän aiemmin asettamia tavoitteita ja keskitytään n
 
 >Käydään läpi 4. kerralla asetetut tavoitteet ja valitaan mitä tavoitteita edistetään tänään
 
-Olemme painottaneet tähän mennessä paljon tiiminä pelaamista, kommukointia ym. tiimityöskentelyn taitoja. Vaikka tänään aiheena onkin “Omassa roolissa kehittyminen”, ei se tarkoita, että meidän tulisi unohtaa muuta tiimiä. Pyrimme tänään miettimään eri tapoja parantua omalla paikallamme siten, että se parhaiten auttaisi muuta joukkuetta.
+Olemme painottaneet tähän mennessä paljon tiiminä pelaamista, kommukointia ym. tiimityöskentelyn taitoja. Vaikka tänään aiheena onkin “Omassa roolissa kehittyminen”, ei se tarkoita, että meidän tulisi unohtaa muuta tiimiä. Pyrimme tänään miettimään eri tapoja parantua omalla paikallamme siten, että se parhaiten auttaisi koko joukkuetta.
 
 **Päivän teemaan orientoituminen 10 min**
 
-Kuten olemme aiemmissa sessioissa todenneet, jokainen rooli voi vaikuttaa eri tavoilla peliin. On kuitenkin hyvä muistaa, että vaikka jokin asia “tyhjiössä” olisi hyvä juuri sinulle, ei se välttämättä tarkoita, että se olisi hyvä koko joukkueelle, vaan jopa päinvastoin. Voimmekin miettiä, millä eri tavoin voit johdattaa sinun hyvän pelaamisesi avulla tiimin johtoon, vaikka muulla tiimillä menisi huonomminkin.
+Kuten olemme aiemmissa sessioissa todenneet, jokainen rooli vaikuttaa peliin. On kuitenkin hyvä muistaa, että vaikka jokin asia “tyhjiössä” olisi hyvä juuri sinulle, ei se välttämättä tarkoita, että se olisi hyvä koko joukkueelle, vaan jopa päinvastoin. Voimmekin miettiä, millä eri tavoin voit johdattaa sinun hyvän pelaamisesi avulla tiimin johtoon, vaikka muulla tiimillä menisi huonomminkin.
 
 **Opetus 10 min**
 
@@ -571,7 +571,7 @@ Tämän kauden harjoitukset alkavat käymään vähiin. Ensi kerralla siirrymme 
 
 Harjoitusten edetessä alkaa yhteisten ja henkilökohtaisten tavoitteiden eteneminen (tai sen puute) näkyä harjoituksissa ja yhdessä pelatessa.
 Tänään on tarkoitus suunnata harjoituskauden viimeisten viikkojen tavoitteet selvemmäksi.  
-Jotkut tavoitteet on saatettu ehkä jo tavoittaa, osassa ollaan vielä matkalla ja saattaa olla tavoitteita, joiden olemassaolo on päässyt unohtumaan kokonaan.  
+Jotkut tavoitteet on saatettu ehkä jo tavoittaa, osassa ollaan vielä matkalla ja saattaa olla tavoitteita, joiden olemassaolo on päässyt unohtumaan.  
 Palataan siis tällä viikolla jo asetettuihin tavoitteisiin ja keskustellaan yhdessä läpi, missä vaiheessa mikäkin tavoite on, ovatko tavoitteet vielä ajankohtaisia tai ovatko tavoitteet jo saavutettu ja ollaankin vailla uusia tavoitteita
 
 **Opetus 10 min**
@@ -598,7 +598,7 @@ Kirjataan ylös tavoitteita, joista sitten yhdessä kootaan Discordiin lista yht
 
 **Loppukoonti 5 min**
 
-Alkaako jo jatkuva tavoitteiden asettaminen ja arvioiminen kyllästyttää? Ammattipelaajien arki on jatkuvaa itsensä kehittämistä ja haastamista. Muistakaa antaa itsellenne kuitenkin välillä lepo tästä ajatuksesta sillä välillä on tervettä pelata ihan vain omaksi iloksi ilman sen suurempia paineita.
+Alkaako jo jatkuva tavoitteiden asettaminen ja arvioiminen kyllästyttää? Ammattipelaajien arki on jatkuvaa itsensä kehittämistä ja haastamista. Muistakaa antaa itsellenne kuitenkin välillä lepo tästä ajatuksesta. Välillä on tervettä pelata ihan vain omaksi iloksi ilman sen suurempia paineita.
 
 Me jatkamme ensi kerralla pelin analysoinnin teemalla, joten treenatkaa ja levätkää sopivassa suhteessa sillä ensi viikolla kaikki pääsevät jälleen haastamaan itseään.
 
@@ -699,7 +699,7 @@ Kun strategiat elämän haasteisiin tulee Jumalalta, on Hän myös mukana auttam
 
 **Teemaharjoitus: 35 min**
 
-Kuiva harjoitelkaa strategioita läpi joko ihan vain keskenään tai vaikka botteja vastaan. Tämä on tärkeää, jotta opitte kuinka strategian toteutumisen aikana kommunikoidaan ja kuinka ajoitukset toimivat yhteen.
+Kuivaharjoitelkaa strategioita läpi joko ihan vain keskenään tai vaikka botteja vastaan. Tämä on tärkeää, jotta opitte kuinka strategian toteutumisen aikana kommunikoidaan ja kuinka ajoitukset toimivat yhteen.
 
 Käykää strategian visualisointia läpi uudestaan. Keskustelkaa mikä toimii, mikä ei ja päivittäkää strategian visualisointia. Ottakaa ruutukaappaukset strategioista ja jakakaa ne vaikka discordiin jotta niihin on myöhemmin helppo palata
 
