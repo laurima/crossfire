@@ -198,7 +198,7 @@ Jotta meillä on selvät sävelet miten CrossFire harjoituskerrat toimivat, niin
 - Harjoituksiin tullaan aina ajoissa tai myöhästymisestä ilmoitetaan hyvissä ajoin
 - Harjoituksissa keskitytään asiaan (sisältää opetuksen, teemaharjoitukset ja yhdessä pelaamisen)
 - Tiimikavereita ei kiusata
-- ??? (keksikää lisää)
+- ??? (keksikää lisää yhdessä)
 
 
 **Tutustuminen 10 min**  
