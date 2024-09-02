@@ -31,7 +31,7 @@ Ensimmäiset e-urheilupelisarjat on pelattu 90-luvulla ja jo silloin oli olemass
 2000-luvulla organisaatioiden, turnauksien ja kilpasarjojen lukumäärä on kasvanut valtavasti niin globaalisti kuin myös Suomessa. Osa kilpailusta on harrastepohjaista, mutta palkintorahojen kasvettua on mahdollistunut myös ammattimainen e-urheilu ja e-urheilijoita onkin viime vuosina nähty aina linnan juhlissa asti.
 
 # Mikä on CrossFire?
-CrossFire on yhteiskristillinen järjestö, joka sai alkunsa 2023 huhtikuussa. CF käyttää videopelaamista tukeakseen seurakuntien tavoittavaa ja yhteisöllistä työtä. CrossFire:n johtokunta koostuu eri kirkkokuntien videopelien kokemusasiantuntijoista, managereista sekä seurakuntatyöntekijöistä. Tapahtumien ja toiminnan kohderyhmänä ovat nuoret ja nuoret aikuiset. Toiminnan järjestämiseen voi tulla mukaan ottamalla yhteyttä theredemptionroyale@gmail.com.
+CrossFire on yhteiskristillinen järjestö, joka sai alkunsa 2023 huhtikuussa. CF käyttää videopelaamista tukeakseen seurakuntien tavoittavaa ja yhteisöllistä työtä. CrossFire:n johtokunta koostuu eri kirkkokuntien videopelien kokemusasiantuntijoista, managereista sekä seurakuntatyöntekijöistä. Tapahtumien ja toiminnan kohderyhmänä ovat nuoret ja nuoret aikuiset. Toiminnan järjestämiseen voi tulla mukaan ottamalla yhteyttä crossfire.organisation@gmail.com.
 
 ## Arvot <!-- {docsify-ignore} -->
 **Kristillisyys**, olemme avoimesti ja yksinomaan kristillinen järjestö.  
