@@ -1,0 +1,30 @@
+.normal-box {
+    width: 5px;
+    border-radius: 15px; /* Adjust the value for more or less rounded corners */
+    padding: 5px;
+    text-align: center;
+    line-height: 60px; /* Vertically centers the text */
+    margin: 5%;
+}
+
+.rounded-box {
+    width: 5px;
+    background: red;
+    border-radius: 15px; /* Adjust the value for more or less rounded corners */
+    padding: 5px;
+    color: white;
+    text-align: center;
+    line-height: 60px; /* Vertically centers the text */
+    margin: 5%;
+}
+
+.float-left-child {
+  float: left;
+}
+
+.flex-parent {
+  display: flex;
+}
+.flex-child {
+  flex: 1;
+}
