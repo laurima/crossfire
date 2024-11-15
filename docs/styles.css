@@ -1,3 +1,15 @@
+.background-div {
+  width: 100% !important;
+  height: 100% !important;
+  background: url(your_image_url) no-repeat;
+  background-size: cover;
+  background-color: #0d1d25;
+}
+
+.top {
+  top: 50px;
+}
+
 .normal-box {
     width: 5px;
     border-radius: 15px; /* Adjust the value for more or less rounded corners */
@@ -9,7 +21,7 @@
 
 .rounded-box {
     width: 5px;
-    background: red;
+    background: #d59d80;
     border-radius: 15px; /* Adjust the value for more or less rounded corners */
     padding: 5px;
     color: white;
@@ -27,4 +39,119 @@
 }
 .flex-child {
   flex: 1;
+}
+
+/* Fonts */
+.ibm-plex-mono-thin {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.ibm-plex-mono-extralight {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.ibm-plex-mono-light {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.ibm-plex-mono-regular {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ibm-plex-mono-medium {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.ibm-plex-mono-semibold {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.ibm-plex-mono-bold {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.ibm-plex-mono-thin-italic {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.ibm-plex-mono-extralight-italic {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.ibm-plex-mono-light-italic {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.ibm-plex-mono-regular-italic {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.ibm-plex-mono-medium-italic {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.ibm-plex-mono-semibold-italic {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.ibm-plex-mono-bold-italic {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* Font colours */
+
+.black {
+  color: #0d1d25;
+}
+
+.white {
+  color: white;
+}
+
+.grey {
+  color: #104c64;
+}
+
+.blue {
+  color: #104c64;
+}
+
+.beige {
+  color: #d59d80;
+}
+
+.brown {
+  color: #c0754d;
+}
+
+.red {
+  color: #b6410f;
 }
