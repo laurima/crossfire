@@ -1,167 +1,62 @@
-.background-div {
-  width: 100% !important;
-  height: 100% !important;
-  background: url(your_image_url) no-repeat;
-  background-size: cover;
-  background-color: #0d1d25;
-}
-
-.top {
-  top: 50px;
-}
-
-.normal-box {
-    width: 5px;
-    border-radius: 15px; /* Adjust the value for more or less rounded corners */
-    padding: 5px;
-    text-align: center;
-    line-height: 60px; /* Vertically centers the text */
-    margin: 5%;
-}
-
-.rounded-box {
-    width: 5px;
-    background: #d59d80;
-    border-radius: 15px; /* Adjust the value for more or less rounded corners */
-    padding: 5px;
-    color: white;
-    text-align: center;
-    line-height: 60px; /* Vertically centers the text */
-    margin: 5%;
-    position: relative;
-}
-
-.float-left-child {
-  float: left;
-}
-
-.flex-parent {
-  display: flex;
-}
-.flex-child {
-  flex: 1;
-}
-
-.link-spanner{
-  position:absolute;
-  width:100%;
-  height:100%;
-  top:0;
-  left: 0;
-  z-index: 1;
-}
-
 /* Fonts */
-.ibm-plex-mono-thin {
-  font-family: "IBM Plex Mono", monospace;
-  font-weight: 100;
-  font-style: normal;
+body {
+  margin: 0;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 18px; /* Suuremman perusfonttikoon määrittäminen */
+  background-color: #0e1217; /* Tumma tausta */
+  color: #fefefe; /* Valkoinen teksti */
 }
 
-.ibm-plex-mono-extralight {
-  font-family: "IBM Plex Mono", monospace;
-  font-weight: 200;
-  font-style: normal;
+.background-div {
+  padding: 20px;
+  text-align: center;
 }
 
-.ibm-plex-mono-light {
-  font-family: "IBM Plex Mono", monospace;
-  font-weight: 300;
-  font-style: normal;
-}
-
-.ibm-plex-mono-regular {
-  font-family: "IBM Plex Mono", monospace;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.ibm-plex-mono-medium {
-  font-family: "IBM Plex Mono", monospace;
-  font-weight: 500;
-  font-style: normal;
-}
-
-.ibm-plex-mono-semibold {
-  font-family: "IBM Plex Mono", monospace;
+.top-title {
+  font-size: 3em; /* Kasvatettu otsikon fonttikoko */
   font-weight: 600;
-  font-style: normal;
+  margin-bottom: 40px;
+  color: #fefefe;
 }
 
-.ibm-plex-mono-bold {
-  font-family: "IBM Plex Mono", monospace;
-  font-weight: 700;
-  font-style: normal;
+/* Cards */
+.row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 30px;
+  flex-wrap: wrap; /* Joustava pienemmillä näytöillä */
 }
 
-.ibm-plex-mono-thin-italic {
-  font-family: "IBM Plex Mono", monospace;
-  font-weight: 100;
-  font-style: italic;
+.card {
+  background-color: #d89675; /* Pehmeä oranssi */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  text-align: left;
 }
 
-.ibm-plex-mono-extralight-italic {
-  font-family: "IBM Plex Mono", monospace;
-  font-weight: 200;
-  font-style: italic;
+.wide-card {
+  flex: 1; /* Leveät kortit */
+  max-width: 500px;
 }
 
-.ibm-plex-mono-light-italic {
-  font-family: "IBM Plex Mono", monospace;
-  font-weight: 300;
-  font-style: italic;
-}
-
-.ibm-plex-mono-regular-italic {
-  font-family: "IBM Plex Mono", monospace;
-  font-weight: 400;
-  font-style: italic;
-}
-
-.ibm-plex-mono-medium-italic {
-  font-family: "IBM Plex Mono", monospace;
-  font-weight: 500;
-  font-style: italic;
-}
-
-.ibm-plex-mono-semibold-italic {
-  font-family: "IBM Plex Mono", monospace;
+.card b {
   font-weight: 600;
-  font-style: italic;
+  font-size: 1.3em; /* Kasvatettu otsikon fonttikoko */
 }
 
-.ibm-plex-mono-bold-italic {
-  font-family: "IBM Plex Mono", monospace;
-  font-weight: 700;
-  font-style: italic;
+.card p {
+  margin: 10px 0 0;
+  font-size: 1.1em; /* Kasvatettu kappaleen fonttikoko */
+  line-height: 1.6;
 }
 
-/* Font colours */
-
-.black {
-  color: #0d1d25;
-}
-
-.white {
-  color: white;
-}
-
-.grey {
-  color: #104c64;
-}
-
-.blue {
-  color: #104c64;
-}
-
-.beige {
-  color: #d59d80;
-}
-
-.brown {
-  color: #c0754d;
-}
-
-.red {
-  color: #b6410f;
+/* Responsiivisuus */
+@media (max-width: 768px) {
+  .row {
+    flex-direction: column;
+    gap: 15px;
+  }
 }
